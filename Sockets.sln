@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpProxy", "TcpProxy\TcpProxy.csproj", "{B30608E0-AF2A-49AD-A741-7A1F36A3DD7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IFactory", "IFactory\IFactory.csproj", "{B25A7F21-C101-45B8-AD8C-B6DC02546B05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunMain", "RunMain\RunMain.csproj", "{F1F5EC0D-0914-4AAF-B61D-DA341925EE39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B30608E0-AF2A-49AD-A741-7A1F36A3DD7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B30608E0-AF2A-49AD-A741-7A1F36A3DD7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B30608E0-AF2A-49AD-A741-7A1F36A3DD7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B30608E0-AF2A-49AD-A741-7A1F36A3DD7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B25A7F21-C101-45B8-AD8C-B6DC02546B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B25A7F21-C101-45B8-AD8C-B6DC02546B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B25A7F21-C101-45B8-AD8C-B6DC02546B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B25A7F21-C101-45B8-AD8C-B6DC02546B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1F5EC0D-0914-4AAF-B61D-DA341925EE39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F5EC0D-0914-4AAF-B61D-DA341925EE39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F5EC0D-0914-4AAF-B61D-DA341925EE39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F5EC0D-0914-4AAF-B61D-DA341925EE39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

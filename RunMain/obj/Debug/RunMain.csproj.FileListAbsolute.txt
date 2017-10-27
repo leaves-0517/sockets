@@ -1,0 +1,13 @@
+F:\visual studio 2013\Socket\Sockets\RunMain\bin\Debug\RunMain.exe.config
+F:\visual studio 2013\Socket\Sockets\RunMain\obj\Debug\RunMain.csprojResolveAssemblyReference.cache
+F:\visual studio 2013\Socket\Sockets\RunMain\bin\Debug\RunMain.exe
+F:\visual studio 2013\Socket\Sockets\RunMain\bin\Debug\RunMain.pdb
+F:\visual studio 2013\Socket\Sockets\RunMain\bin\Debug\IFactory.dll
+F:\visual studio 2013\Socket\Sockets\RunMain\bin\Debug\TcpProxy.dll
+F:\visual studio 2013\Socket\Sockets\RunMain\bin\Debug\IFactory.pdb
+F:\visual studio 2013\Socket\Sockets\RunMain\bin\Debug\TcpProxy.pdb
+F:\visual studio 2013\Socket\Sockets\RunMain\obj\Debug\RunMain.exe
+F:\visual studio 2013\Socket\Sockets\RunMain\obj\Debug\RunMain.pdb
+F:\git\sockets\Sockets\RunMain\bin\Debug\RunMain.exe.config
+F:\git\sockets\Sockets\RunMain\obj\Debug\RunMain.exe
+F:\git\sockets\Sockets\RunMain\obj\Debug\RunMain.pdb

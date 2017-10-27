@@ -1,0 +1,7 @@
+F:\visual studio 2013\Socket\Sockets\TcpProxy\obj\Debug\TcpProxy.csprojResolveAssemblyReference.cache
+F:\visual studio 2013\Socket\Sockets\TcpProxy\bin\Debug\TcpProxy.dll
+F:\visual studio 2013\Socket\Sockets\TcpProxy\bin\Debug\TcpProxy.pdb
+F:\visual studio 2013\Socket\Sockets\TcpProxy\bin\Debug\IFactory.dll
+F:\visual studio 2013\Socket\Sockets\TcpProxy\bin\Debug\IFactory.pdb
+F:\visual studio 2013\Socket\Sockets\TcpProxy\obj\Debug\TcpProxy.dll
+F:\visual studio 2013\Socket\Sockets\TcpProxy\obj\Debug\TcpProxy.pdb

@@ -1,0 +1,5 @@
+F:\visual studio 2013\Socket\Sockets\IFactory\bin\Debug\IFactory.dll
+F:\visual studio 2013\Socket\Sockets\IFactory\bin\Debug\IFactory.pdb
+F:\visual studio 2013\Socket\Sockets\IFactory\obj\Debug\IFactory.csprojResolveAssemblyReference.cache
+F:\visual studio 2013\Socket\Sockets\IFactory\obj\Debug\IFactory.dll
+F:\visual studio 2013\Socket\Sockets\IFactory\obj\Debug\IFactory.pdb
